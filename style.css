@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#galeri {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+#contact {
+  padding-top: 6rem;
+}
+
+footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
